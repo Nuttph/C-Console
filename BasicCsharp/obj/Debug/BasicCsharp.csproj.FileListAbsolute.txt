@@ -1,0 +1,7 @@
+D:\2024_Learning\C#\BasicCsharp\BasicCsharp\bin\Debug\BasicCsharp.exe.config
+D:\2024_Learning\C#\BasicCsharp\BasicCsharp\bin\Debug\BasicCsharp.exe
+D:\2024_Learning\C#\BasicCsharp\BasicCsharp\bin\Debug\BasicCsharp.pdb
+D:\2024_Learning\C#\BasicCsharp\BasicCsharp\obj\Debug\BasicCsharp.csproj.AssemblyReference.cache
+D:\2024_Learning\C#\BasicCsharp\BasicCsharp\obj\Debug\BasicCsharp.csproj.CoreCompileInputs.cache
+D:\2024_Learning\C#\BasicCsharp\BasicCsharp\obj\Debug\BasicCsharp.exe
+D:\2024_Learning\C#\BasicCsharp\BasicCsharp\obj\Debug\BasicCsharp.pdb
